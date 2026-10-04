@@ -5,6 +5,10 @@ Contents:
 
 Apps i used : VsCode ,Youtube(to learn)
 
+How to run it:
+1.
+2. programiz.com/html/online-compiler
+
 Photos of the code:
 
 1. basic html structure
