@@ -2,6 +2,7 @@ Hello this is a repository where i try my html codes !!
 
 Contents:
 1. basic html structure
+2. format testing
 
 Apps i used : VsCode ,Youtube (to learn)
 
