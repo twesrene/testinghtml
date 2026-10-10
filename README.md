@@ -16,4 +16,7 @@ Photos of the code:
 <img width="455" height="185" alt="image" src="https://github.com/user-attachments/assets/a13f65e6-6be9-4372-a208-78f7bbe9833b" />
 
 
+2. Format testing
+
+<img width="308" height="186" alt="image" src="https://github.com/user-attachments/assets/1e12ed6f-08ed-4a69-8684-2d9e81f4f6d7" />
 
