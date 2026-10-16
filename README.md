@@ -26,3 +26,8 @@ Photos of the code:
 3. Colour test
 
 <img width="275" height="185" alt="image" src="https://github.com/user-attachments/assets/c854153b-99d9-4b78-9fbc-e24279a8695b" />
+
+
+4. Links
+
+<img width="407" height="167" alt="image" src="https://github.com/user-attachments/assets/1e029a39-f40f-4ec4-8057-40a30786af28" />
